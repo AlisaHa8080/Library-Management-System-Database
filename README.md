@@ -1,5 +1,5 @@
 # Library Management System :book:
-![Diagram 1](./ٍER.png)
+![ER Diagram](./ER.png "Entity-Relationship Diagram")
 This repository contains the database design for a Library Management System. The aim of this project is to simplify the tasks of managing books and user accounts in a library. 
 
 ## Content
